@@ -1,0 +1,2 @@
+help:0
+hungry:1
